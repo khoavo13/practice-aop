@@ -1,4 +1,4 @@
-# Practice AOP, Logging and intercetor
+# Practice AOP, Logging and Interceptor
 
 ## Config properties
 
